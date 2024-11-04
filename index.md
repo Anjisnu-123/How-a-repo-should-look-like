@@ -3,7 +3,7 @@ Folders structure:
 - Docs
 - Data
 - Src
-  - init.py (Musr have)
+  - init.py (Must have)
 - Notebooks
 - Results
 - reports
