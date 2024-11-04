@@ -1,3 +1,5 @@
+Folders structure: 
+
 - Docs
 - Data
 - Src
